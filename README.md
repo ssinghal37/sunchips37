@@ -1,4 +1,4 @@
-Hi, I’m @sunchips37👋
+Hi, I’m @sunchips37
 
 I code for fun and am interested in expanding my skillset by creating programs and applications.
 I'm eager to learn more and open to collaborate on projects. I can be reached at sanchits2005@gmail.com
