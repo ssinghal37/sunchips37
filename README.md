@@ -7,9 +7,6 @@ Current Work/Projects:
 - GUI Implementation
   - C++ using Windows Forms on Visual Studio
   - Connect4 Application
-- AI for Image Recognition
-  - Python
-  - MNIST Handwritten Numbers & Clothing Datasets
 
 <!---
 sunchips37/sunchips37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
