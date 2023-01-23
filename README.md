@@ -7,6 +7,9 @@ Current Work/Projects:
 - GUI Implementation
   - C++ using Windows Forms on Visual Studio
   - Connect4 Application
+- High Power Computing Modeling
+  - Raspberry Pi Cluster Computer
+  - Parallel Processing in Python
 
 <!---
 sunchips37/sunchips37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
