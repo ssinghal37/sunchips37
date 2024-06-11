@@ -1,15 +1,12 @@
-Hi, I’m @sunchips37
+Hi, I’m Sanchit Singhal!
 
-I code for fun and am interested in expanding my skillset by creating programs and applications.
-I'm eager to learn more and open to collaborate on projects. I can be reached at sanchits2005@gmail.com
+I'm a computational engineering student at UT Austin who loves to code! I'm eager to expand my skillset and an open to collaborate on projects. I can be reached at sanchit.singhal@utexas.edu
 
 Current Work/Projects:
-- GUI Implementation
-  - C++ using Windows Forms on Visual Studio
-  - Connect4 Application
-- High Power Computing Modeling
-  - Raspberry Pi Cluster Computer
-  - Parallel Processing in Python
+- Connect4 GUI
+- Snake GUI
+- Parallel Processing in Python
+
 
 <!---
 sunchips37/sunchips37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
