@@ -4,8 +4,8 @@ I'm a computational engineering student at UT Austin who loves to code! I'm eage
 
 Current Work/Projects:
 - COE 322 (Scientific Computation) at UT Austin
-- Learning to use pygame
-- Word Search Game in C++
+- Learning to use tkinter & pygame
+- OpenCV to track mountain contours
 
 
 <!---
