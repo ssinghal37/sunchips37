@@ -2,9 +2,7 @@ Hi, I’m Sanchit Singhal, a computational engineering student at UT Austin. I'm
 
 Current Work/Projects:
 - COE 332 (Software Engr. & Design) at UT Austin
-- COE 379L (Parallel Computing) at UT Austin
 - Learning to use tkinter & pygame
-- OpenCV to track mountain contours
 
 
 <!---
